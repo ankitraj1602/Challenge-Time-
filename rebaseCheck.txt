@@ -1,0 +1,3 @@
+Created this to check the rebase concept more closely.
+Actually i am trying to check that is i can,without writing the command git rebase ,aster while being in the FB can achieve the same feat that was did while writing the  codes of rebase on both FB and master.
+And i thought that writing the rebase in FB was little uncessary. So this time i m not writing the rebase code in the FB.
