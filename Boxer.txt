@@ -1,1 +1,3 @@
 This is a Boxer test,while understanding the rebase concept.
+
+trying to modify a commit and then roll back to previous commit
